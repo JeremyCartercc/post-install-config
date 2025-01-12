@@ -78,7 +78,7 @@ We're going to create 3 SLAs, Sev-A, Sev-B and Sev-C. Go to admin panel, Manage,
 <p>
   <h2>5. Configure Help Topics</h2>
   
-![image](https://github.com/user-attachments/assets/ab8c3be5-3e62-4079-9810-f621abb383c5)
+![image](https://github.com/user-attachments/assets/c5d75356-8f5d-4663-97fa-acfaadb2ed01)
 
 </p>
 <p>
