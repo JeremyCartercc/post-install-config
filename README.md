@@ -22,15 +22,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles, Departments and Teams 
+- Allow anyone to create tickets
+- Configure Agents(workers) and Users(customers)
+- Configure SLA
+- Configure Help Topics (For when users create a ticket)
 
 <h2>Configuration Steps</h2>
 
 <p>
+  <h2>1. Configure Roles, Departments and Teams</h2>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
