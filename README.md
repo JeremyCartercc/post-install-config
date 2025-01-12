@@ -59,28 +59,29 @@ Go to settings and then users, make sure Require registration and login to creat
 
 </p>
 <p>
-Go Agents then Add New Agent, put in who you want, press set password, uncheck "send the agent a password reset email" and set the password. Click Access and put her in SysAdmin department and her role as Supreme Admin. 
+Go Agents then Add New Agent, put in who you want, press set password, uncheck "send the agent a password reset email" and set the password. Click Access and put her in SysAdmin department and her role as Supreme Admin and put her in the Online banking team then create Agent. Now make another agent but this time put them in Support department with view only role. Now for the users, go to Agent Panel, Users, Add User. 
 </p>
 <br />
 
 <p>
-  <h2>2. Allow anyone to create tickets</h2>
+  <h2>4. Configure SLA</h2>
+  
+![image](https://github.com/user-attachments/assets/60375fb0-2da2-4f3d-bb07-d18a0c653b02)
+
+
+</p>
+<p>
+We're going to create 3 SLAs, Sev-A, Sev-B and Sev-C. Go to admin panel, Manage, SLA, ADd new SLA plan. Name it Sev-A with a 1 hour grace period and 24/7 schedule. Create Sev-B with a 4 hour grace period and 24/7 schedule. Finally create Sev-C with an 8 hour grace period and Business hours schedule.
+</p>
+<br />
+
+<p>
+  <h2>5. Configure Help Topics</h2>
   
 ![image](https://github.com/user-attachments/assets/ab8c3be5-3e62-4079-9810-f621abb383c5)
 
 </p>
 <p>
-Go to settings and then users, make sure Require registration and login to create tickets is unchecked.
-</p>
-<br />
-
-<p>
-  <h2>2. Allow anyone to create tickets</h2>
-  
-![image](https://github.com/user-attachments/assets/ab8c3be5-3e62-4079-9810-f621abb383c5)
-
-</p>
-<p>
-Go to settings and then users, make sure Require registration and login to create tickets is unchecked.
+Go to Admin Panel, Manage, Help topics. Add new help topic, type in Busniess Critical Outage and choose Report a Problem in Parent Topic. Do the same with Personal Computer Issues, Equipment Request, Password Reset and Other.
 </p>
 <br />
